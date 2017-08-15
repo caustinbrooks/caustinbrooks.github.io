@@ -6,7 +6,7 @@
 name: Austin Brooks
 
 # Short bio or description (displayed in the header)
-description: MS Analytics Student at Georgia Tech
+description: Analytics Graduate Student at Georgia Tech
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/caustinbrooks/caustinbrooks.github.io/master/images/penguin_chick.png
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:
+  twitter: DrowningPenguin
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UClkY0hWmLuEVI2ipP5p2IcA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
