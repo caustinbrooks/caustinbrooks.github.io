@@ -12,4 +12,4 @@ I intend to graduate with from the MSA program in May 2018.
 
 ### Contact me
 
-[c(dot)austin(dot)brooks(at)gatech(dot)edu](mailto:c.austin.brooks@gatech.edu)
+[c.austin.brooks@gatech.edu](mailto:c.austin.brooks@gatech.edu)
