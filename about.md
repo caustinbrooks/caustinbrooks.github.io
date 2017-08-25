@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Austin
 permalink: /about/
 ---
 
-Some information about you!
+I am a second semester masters candidate in the analytics program at the Georgia Institute of Technology
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I intend to graduate with from the MSA program in May 2018.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[c(dot)austin(dot)brooks(at)gatech(dot)edu](mailto:c.austin.brooks@gatech.edu)
